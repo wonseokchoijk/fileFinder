@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="/org.eclipse.swt/swt-debug.jar"/>
+	<classpathentry exported="true" kind="lib" path="/org.eclipse.swt/swt.jar" sourcepath="/org.eclipse.swt/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="http://help.eclipse.org/stable/nftopic/org.eclipse.platform.doc.isv/reference/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-3.10-beta2-20130904.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-examples-3.10-beta2-20130904.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-excelant-3.10-beta2-20130904.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-ooxml-3.10-beta2-20130904.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-ooxml-schemas-3.10-beta2-20130904.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-scratchpad-3.10-beta2-20130904.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/dom4j-1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/swt.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/swt-debug.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
